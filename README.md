@@ -13,7 +13,7 @@ yarn
 or
 
 ``` bash
-npm run install
+npm install
 ```
 
 ## Develop
